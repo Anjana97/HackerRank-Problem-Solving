@@ -1,0 +1,22 @@
+#include <assert.h>
+#include <limits.h>
+#include <math.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+int ar[10000],n,results=0;
+scanf("%d",&n);
+for(int i=0;i<n;i++)
+{
+    scanf("%d",&ar[i]);
+}
+for(int i=0;i<n;i++)
+{
+    results +=ar[i];
+}
+printf("%d",results);
+}
