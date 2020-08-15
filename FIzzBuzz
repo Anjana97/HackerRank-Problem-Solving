@@ -16,11 +16,11 @@ char* rtrim(char*);
 int parse_int(char*);
 
 
-/*
- * Complete the 'fizzBuzz' function below.
- *
- * The function accepts INTEGER n as parameter.
- */
+
+
+ 
+
+
 
 void fizzBuzz(int n) {
     for (int i =1; i<=n ; i++)
