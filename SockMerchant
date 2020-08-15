@@ -11,7 +11,7 @@
 char* readline();
 char** split_string(char*);
 
-// Complete the sockMerchant function below.
+
 int sockMerchant(int n, int ar_count, int* ar) {
     int i,j,count=0;
     for(i=0;i<n;i++){
