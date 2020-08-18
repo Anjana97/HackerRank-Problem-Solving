@@ -7,7 +7,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
  void plusmin(int n, int ar[])
  {
      int i;
@@ -25,10 +24,8 @@
      else 
      {
          neg++;
-     }
-     
+     } 
  }
- 
  printf("%f\n%f\n%f",pos/n,neg/n,zero/n);
  }
 
