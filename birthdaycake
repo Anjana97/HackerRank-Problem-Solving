@@ -40,4 +40,4 @@ int main()
          }
     cake(n,a);
 
-}
+
