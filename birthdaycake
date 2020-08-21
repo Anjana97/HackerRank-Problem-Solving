@@ -27,7 +27,7 @@ void cake(int n, int a[])
         if (a[i]==max)
         count++;
     }
-    printf("%d",count);
+    p rintf("%d",count);
 }
 
 int main()
