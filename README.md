@@ -1,2 +1,2 @@
 # Problem-Solving
-Hackerrank
+Hack
