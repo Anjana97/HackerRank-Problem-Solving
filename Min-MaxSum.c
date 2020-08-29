@@ -11,8 +11,8 @@
 int main(){
     long long int i,s=0,min,max=0,a[5],r;
     for(i=0;i<5;i++){
-        sc
-anf("%lld",&a[i]);
+       
+scanf("%lld",&a[i]);
         s=s+a[i];
     }
     min=s;
