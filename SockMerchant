@@ -57,7 +57,7 @@ int main()
     int result = sockMerchant(n, ar_count, ar);
 
     fprintf(fptr, "%d\n", result);
-
+}
     fclose(fptr);
 
     return 0;
